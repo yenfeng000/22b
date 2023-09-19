@@ -28,4 +28,8 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 ...* note 2</br>
 ***  note 3
 
-   
+- [ ] to to list
+- [x] 1st thing
+- [ ] 2nd thing
+- [x] 3rd thing
+- [ ] 4th thing   
