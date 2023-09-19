@@ -34,6 +34,8 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 - [x] 3rd thing
 - [ ] 4th thing   
 
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
 ### Python code
 ```python
 s="python syntax highlighting"
