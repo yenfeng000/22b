@@ -17,7 +17,8 @@ gantt
 ## PERT/CPM圖
 
 ## 關鍵路徑
-
+### Mermaid
+```mermaid
 gantt
     C110118252任務清單
     section 任務
@@ -32,3 +33,4 @@ gantt
     系統測試           :a9, after a6  , 25d
     使用者訓練         :a10, after a7  , 20d
     使用者測試         :a11, after a9  , 25d
+```
