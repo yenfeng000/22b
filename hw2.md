@@ -1,7 +1,6 @@
 # 專案管理
 
 ## 甘特圖
-### Mermaid
 ```mermaid
 gantt
     title C110118252任務清單
